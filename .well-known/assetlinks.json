@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.app.nobrokerhood",
+    "sha256_cert_fingerprints":
+    ["AF:6D:8A:E2:19:D5:A5:3A:F6:12:2C:A9:9D:7E:5F:6D:59:6A:ED:E3:07:FB:49:04:4A:12:20:07:4E:86:CB:AD"]
+  }
+}]
